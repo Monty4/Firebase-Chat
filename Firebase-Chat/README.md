@@ -10,7 +10,7 @@
 
 ```
 $ git clone https://github.com/Monty4/Firebase-Chat.git
-$ cd firebase-workshop-chat
+$ cd firebase-chat
 $ npm i
 $ npm start
 ```
