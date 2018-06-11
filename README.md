@@ -1,4 +1,4 @@
-# Workshop Firebase
+# Firebase-Chat
 
 ## Stack
 - [React](https://reactjs.org/)
@@ -9,7 +9,7 @@
 ## Install
 
 ```
-$ git clone https://github.com/danivm/firebase-workshop-chat.git
+$ git clone https://github.com/Monty4/Firebase-Chat.git
 $ cd firebase-workshop-chat
 $ npm i
 $ npm start
