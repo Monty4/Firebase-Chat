@@ -1,0 +1,16 @@
+.messageList {
+  flex-basis: 100%;
+  overflow-y: auto;
+
+  &-user {
+    font-weight: 500;
+  }
+
+  &-date {
+    color: grey;
+    font-size: 14px;
+    font-weight: lighter;
+    float: right;
+    margin-left: 8px;
+  }
+}
